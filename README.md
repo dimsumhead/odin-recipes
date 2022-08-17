@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a recipe website made for The Odin Project's foundation lesson. My goal is to showcase what I have learned about HTML so far: paragraphs, lists, links, all that good stuff.
